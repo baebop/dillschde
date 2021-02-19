@@ -492,12 +492,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":48,
          "firstgid":2473,
-         "source":"bouncer.tsx"
+         "image":"bouncer.png",
+         "imageheight":512,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"bouncer",
+         "spacing":0,
+         "tilecount":768,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":12,
          "firstgid":3241,
-         "source":"barkley.tsx"
+         "image":"barkley.png",
+         "imageheight":64,
+         "imagewidth":384,
+         "margin":0,
+         "name":"barkley",
+         "spacing":0,
+         "tilecount":24,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
