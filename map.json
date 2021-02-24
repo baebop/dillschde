@@ -74,6 +74,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.miniclip.com\/games\/8-ball-pool-multiplayer\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
